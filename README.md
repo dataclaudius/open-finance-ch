@@ -14,6 +14,9 @@ This repository contains a curated list of Open Finance and Open Banking APIs av
 
 # 1. APIs 
 Note: This list includes banks that have publicly available information about their APIs. Some banks may offer APIs on a case-by-case basis or for specific partners without public documentation. Additionally, many Swiss banks participate in standardized interfaces like EBICS, which, while not RESTful APIs, do provide access to banking services.
+## 1.0 Open Finance
+* Yapeal https://yapeal.ch/en/embedded-finance/developer
+
 ## 1.1 Payment Services
 * Banque Cantonale Vaudoise
 * Cornèr Bank: https://developers.api.cornercard.eu/#/
@@ -30,6 +33,7 @@ Note: This list includes banks that have publicly available information about th
 Cornèr Data Feed https://www.corner.ch/en/financial-intermediaries/online-services/
 
 ## 1.3 Crypto and Digital Assets
+* Amina: https://www.aminagroup.com/corporates/banking/#api
 * Bitcoin Suisse API: https://docs.bitcoinsuisse.com/api/
 * 
 ## 1.4 Accounting
@@ -50,11 +54,14 @@ EBICS is a transmission protocol for file-based data exchange between customers 
 * Banque Cantonale Vaudoise: https://www.bcv.ch/fr/home/entreprises-et-institutions/produits/e-banking/bcv-connect.html 
 
 # 3. Swiss Fintech Ecosystem
-F10 FinTech Incubator & Accelerator
-Swiss Finance Startups (SFS)
-SIX Fintech Ventures
-Kickstart Innovation
-Swiss FinTech Innovation Lab
+
+* Kickstart Innovation https://www.kickstart-innovation.com/
+* Business Engineering Institute St. Gallen https://www.bei-sg.ch/
+* SIX Fintech Ventures https://www.six-group.com/en/company/the-future-of-finance-is-now/six-fintech-ventures.html
+* Swiss Banking Society https://www.swissbanking.ch/en
+* Swiss FinTech Map https://fintechmap.ch/
+* Swiss Finance Startups (SFS) https://swissfinancestartups.com/
+* Tenity https://www.tenity.com/
 
 # 4. Contributing
 We welcome contributions to this list! If you know of an API, protocol, or resource that should be included or have updates to existing entries, please follow these steps:
