@@ -14,6 +14,9 @@ This repository contains a curated list of Open Finance and Open Banking APIs av
 
 # 1. APIs 
 Note: This list includes banks that have publicly available information about their APIs. Some banks may offer APIs on a case-by-case basis or for specific partners without public documentation. Additionally, many Swiss banks participate in standardized interfaces like EBICS, which, while not RESTful APIs, do provide access to banking services.
+## Marketplaces
+
+
 ## 1.0 Open Finance
 * Yapeal https://yapeal.ch/en/embedded-finance/developer
 
@@ -29,39 +32,37 @@ Note: This list includes banks that have publicly available information about th
 * Valiant Bank
 * Zürcher Kantonalbank (ZKB)
   
-## 1.2 Wealth Management
+## 1.2 Wealth Management API
 Cornèr Data Feed https://www.corner.ch/en/financial-intermediaries/online-services/
 
-## 1.3 Crypto and Digital Assets
-* Amina: https://www.aminagroup.com/corporates/banking/#api
-* Bitcoin Suisse API: https://docs.bitcoinsuisse.com/api/
+## 1.3 Crypto and Digital Assets API
+* [Amina](https://www.aminagroup.com/corporates/banking/#api)
+* [Bitcoin Suisse](https://docs.bitcoinsuisse.com/api/)
 * 
-## 1.4 Accounting
-* Abaninja https://abaninja.ch/apidocs/
-* Abacus https://apihub.abacus.ch/
-* Banana https://www.banana.ch/doc/en/node/4714
-* Bexio https://docs.bexio.com/
-* CashCtrl https://app.cashctrl.com/static/help/en/api/index.html#intro
-* Klara https://api.klara.ch/docs
-* Numarics https://www.numarics.com/en/api-referenz
-* Run my accounts: https://www.runmyaccounts.ch/support-artikel/run-my-accounts-restful-api/
+## 1.4 Accounting API
+* [Abaninja](https://abaninja.ch/apidocs/)
+* [Abacus](https://apihub.abacus.ch/)
+* [Banana](https://www.banana.ch/doc/en/node/4714)
+* [Bexio](https://docs.bexio.com/)
+* [CashCtrl](https://app.cashctrl.com/static/help/en/api/index.html#intro)
+* [Klara](https://api.klara.ch/docs)
+* [Numarics](https://www.numarics.com/en/api-referenz)
+* [Run my accounts](https://www.runmyaccounts.ch/support-artikel/run-my-accounts-restful-api/)
   
 ## 1.5 Third-Party Banking Api
-
-
-# 2. EBICS (Electronic Banking Internet Communication Standard)
-EBICS is a transmission protocol for file-based data exchange between customers and banks, widely used in Switzerland and other European countries for secure electronic banking transactions.
-* Banque Cantonale Vaudoise: https://www.bcv.ch/fr/home/entreprises-et-institutions/produits/e-banking/bcv-connect.html 
+* [Plaid]
+* []
 
 # 3. Swiss Fintech Ecosystem
-
-* Kickstart Innovation https://www.kickstart-innovation.com/
-* Business Engineering Institute St. Gallen https://www.bei-sg.ch/
-* SIX Fintech Ventures https://www.six-group.com/en/company/the-future-of-finance-is-now/six-fintech-ventures.html
-* Swiss Banking Society https://www.swissbanking.ch/en
-* Swiss FinTech Map https://fintechmap.ch/
-* Swiss Finance Startups (SFS) https://swissfinancestartups.com/
-* Tenity https://www.tenity.com/
+* [Business Engineering Institute St. Gallen](https://www.bei-sg.ch/)
+* [Kickstart Innovation](https://www.kickstart-innovation.com/)
+* [Swiss Banking Society](https://www.swissbanking.ch/)
+* [Swiss Finance & Technology Association(SFTI)](https://swissfinte.ch/)
+* [Swiss Fintech Innovations(SFTI)](https://swissfintechinnovations.ch/) 
+* [Swiss FinTech Map](https://fintechmap.ch/)
+* [Swiss Finance Startups (SFS)](https://swissfinancestartups.com/)
+* [Tenity](https://www.tenity.com/)
+* [Open Wealth Association](https://openwealth.ch/)
 
 # 4. Contributing
 We welcome contributions to this list! If you know of an API, protocol, or resource that should be included or have updates to existing entries, please follow these steps:
