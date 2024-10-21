@@ -13,7 +13,7 @@ This repository contains a curated list of Open Finance and Open Banking APIs av
 
 Note: This list includes APIs that have publicly available information. Some banks may offer APIs on a case-by-case basis or for specific partners without public documentation. Additionally, many Swiss banks participate in standardized interfaces like EBICS, which, while not RESTful APIs, do provide access to banking services.
 
-## 1.1 Public Account & Payment Services
+## 1.1 Public Account & Payment API
 
 * [blink AIS/PIS](https://docs.blink.six-group.com/docs/category/account-and-payment-services)
 
