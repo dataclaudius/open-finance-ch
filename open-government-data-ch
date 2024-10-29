@@ -1,0 +1,80 @@
+# Open Government API List in Switzerland 
+This repository contains a curated list of Open Government Data (OGD) APIs available in Switzerland. It aims to provide developers, researchers, and organizations with a comprehensive resource for accessing and integrating various public sector data services.
+
+## Table of Contents
+1. Federal Government APIs
+2. Cantonal APIs
+3. Municipal APIs
+4. Cross-Government Initiatives
+5. Contributing
+6. License
+
+# 1. Federal Government APIs
+## 1.1 Central OGD Portals
+
+opendata.swiss - The main portal for Swiss Open Government Data
+LINDAS - Linked Data Service of the Swiss Federal Administration
+
+## 1.2 Federal Office APIs
+
+MeteoSwiss - Weather and climate data
+Federal Statistical Office - Statistical data
+SwissTopo - Geographic data and maps
+FOEN - Environmental data
+
+# 2. Cantonal APIs
+## 2.1 Cantonal Data Portals
+
+Canton of Zurich
+Canton of Geneva
+Canton of Basel-Stadt
+Canton of Thurgau
+
+# 2.2 Specialized Cantonal APIs
+
+Zurich Transport API
+Basel Real Estate Market
+
+# 3. Municipal APIs
+## 3.1 City Data Portals
+
+City of Zurich
+City of Geneva
+City of Bern
+City of Lausanne
+
+## 3.2 Urban Development and Infrastructure
+
+Zurich Construction Projects
+Geneva Urban Planning
+
+# 4. Cross-Government Initiatives
+## 4.1 National Coordination
+
+Swiss Data Alliance
+eCH Standards
+Digitale Verwaltung Schweiz
+
+## 4.2 Research and Innovation
+
+Swiss Data Science Center
+Swiss Open Research Data
+
+# 5. Contributing
+We welcome contributions to this list! If you know of an API, protocol, or resource that should be included or have updates to existing entries, please follow these steps:
+
+Fork the repository
+Create a new branch (git checkout -b add-new-entry)
+Make your changes
+Commit your changes (git commit -am 'Add new entry')
+Push to the branch (git push origin add-new-entry)
+Create a new Pull Request
+Please ensure your pull request adheres to the following guidelines:
+
+Use the format: [Name](link) - Description
+Make sure the entry is relevant to Open Finance or Open Banking in Switzerland
+Check your spelling and grammar
+Make sure your text editor is set to remove trailing whitespace
+
+# 6. License
+This project is licensed under the Creative Commons licence - see the LICENSE file for details.
