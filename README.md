@@ -48,6 +48,7 @@ Note: This list includes APIs that have publicly available information. Some ban
 
 ## 2.2 Global Third-Party Banking API
 
+* [Open Banking](https://open-banking.io) - EU open banking API for account aggregation (AIS) and payment initiation (PISP) without eIDAS certificates
 * [Plaid](https://plaid.com/docs/)
 * [SaltEdge](https://docs.saltedge.com/)
 * [Stripe](https://docs.stripe.com/api)
